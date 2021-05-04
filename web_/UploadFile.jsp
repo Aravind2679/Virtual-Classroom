@@ -1,8 +1,3 @@
-<%-- 
-    Document   : demo
-    Created on : 7 Feb, 2021, 6:07:26 PM
-    Author     : N.MEIYAPPAN
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
